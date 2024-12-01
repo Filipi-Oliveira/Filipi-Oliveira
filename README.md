@@ -58,8 +58,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Filipi-Oliveira/Filipi-Oliveira/output/snake.svg" alt="Snake animation" />
 
 ###
