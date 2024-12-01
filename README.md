@@ -54,10 +54,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/3osxYrhcl17YmhQzu0/giphy.gif?cid=ecf05e47h24g1m3r1w2tjnrw31j11hp6mjvt5d3lcv5n1gg1&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Filipi-Oliveira/Filipi-Oliveira/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif?cid=ecf05e47pymz2f9s9wjactnjh83sck4vwth71st124q5nt9o&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
