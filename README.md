@@ -4,8 +4,8 @@
 
 <p align="left">Here, I share several projects that showcase my learning journey, the technologies I’ve been using, as well as study materials and exercises. I hope you enjoy the content, and if you’d like to contribute to my projects, it would be a pleasure!</p>
 
-### 
-*PARTE DO VISUALIZADOR DE LINGUAGENS MAIS USADAS*
+*PARTE DO VISUALIZADOR DE LINGUAGENS MAIS USADAS*### 
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipi-oliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
