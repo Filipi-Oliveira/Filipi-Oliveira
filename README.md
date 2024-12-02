@@ -5,6 +5,10 @@
 <p align="left">Here, I share several projects that showcase my learning journey, the technologies I’ve been using, as well as study materials and exercises. I hope you enjoy the content, and if you’d like to contribute to my projects, it would be a pleasure!</p>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipi-oliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipi-oliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 ###
